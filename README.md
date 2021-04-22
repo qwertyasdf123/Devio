@@ -18,16 +18,8 @@ Want to add a language to our support list? Fix a typo or bug? Feel free to make
 ## How can I locally run it?
 
 You can locally run it by following the instructions below
-```bash
-# Clone the repo
-git clone https://github.com/acuaro-codes/Devkit.git
+![carbon](https://user-images.githubusercontent.com/67112172/115718635-86ccd900-a338-11eb-82eb-50b394062600.png)
 
-# CD into it
-cd Devkit
-
-# Run it
-# TODO: Run command here
-```
 
 ## Why typescript?
 
