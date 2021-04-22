@@ -15,10 +15,14 @@ Wether it be search for languages or how to install them, `$tag format`ing for t
 
 Want to add a language to our support list? Fix a typo or bug? Feel free to make a pull request!
 
+---
+
 ## How can I locally run it?
 
-You can locally run it by following the instructions below
-<img src=https://user-images.githubusercontent.com/67112172/115718703-9b10d600-a338-11eb-9f0d-453e14a2769f.png width="250">
+### You locally run it by following the instructions below
+![carbon (1)](https://user-images.githubusercontent.com/67112172/115719136-09ee2f00-a339-11eb-8ed0-54fd0f2e3222.png)
+
+---
 
 ## Why typescript?
 
