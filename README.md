@@ -6,7 +6,7 @@
 ## What is it?
 
 **A multi-purpose developer oriented discord bot written in typescript**
-Wether it be search for languages or how to install them, `$tag format`ing for the newbie to use syntax highlighting, we've got it all.
+Whether it be searching for languages or how to install them, `$tag format`ing for the newbie to use syntax highlighting, we've got it all.
 
 **Devio is planned to include...**
 - 🏷️ Tags for common mistakes
