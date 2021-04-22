@@ -31,4 +31,4 @@ I really didn't want to have to commit to a big project just to realize I made a
 
 ---
 
-> This project is licensed under the MIT license and was created by acuaro-codes.
+> This project is licensed under the MIT license and was created by acuaroo.
