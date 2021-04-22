@@ -1,4 +1,4 @@
-# Devkit  //  V.0.1.0 
+# Devio  //  V.0.1.0 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)](https://forthebadge.com)
 
 ## What is it?
@@ -6,7 +6,7 @@
 **A multi-purpose developer oriented discord bot written in typescript**
 Wether it be search for languages or how to install them, `$tag format`ing for the newbie to use syntax highlighting, we've got it all.
 
-**Devkit is planned to include...**
+**Devio is planned to include...**
 - 🏷️ Tags for common mistakes
 - 📚 Thousands of languages documented and described
 - 😊 Emojis for many languages and commands to install them
