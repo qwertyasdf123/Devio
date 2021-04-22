@@ -18,7 +18,7 @@ Want to add a language to our support list? Fix a typo or bug? Feel free to make
 ## How can I locally run it?
 
 You can locally run it by following the instructions below
-<img src=https://user-images.githubusercontent.com/67112172/115718703-9b10d600-a338-11eb-9f0d-453e14a2769f.png width="50">
+<img src=https://user-images.githubusercontent.com/67112172/115718703-9b10d600-a338-11eb-9f0d-453e14a2769f.png width="250">
 
 ## Why typescript?
 
