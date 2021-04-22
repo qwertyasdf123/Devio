@@ -1,4 +1,5 @@
-# Devio  //  V.0.1.0 
+![Devio](https://user-images.githubusercontent.com/67112172/115722109-e7114a00-a33b-11eb-8ca5-74e521911026.png)
+
 [![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)](https://forthebadge.com)
 
 ## What is it?
