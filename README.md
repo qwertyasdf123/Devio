@@ -1,4 +1,5 @@
-# Devkit, V.0.1.0 [![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)](https://forthebadge.com)
+# Devkit, V.0.1.0 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)](https://forthebadge.com)
 
 ## What is it?
 
